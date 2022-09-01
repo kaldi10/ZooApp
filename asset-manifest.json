@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ZooApp/static/css/main.4de0fa12.css",
+    "main.js": "/ZooApp/static/js/main.2d9ef89c.js",
+    "static/js/787.e40d7edb.chunk.js": "/ZooApp/static/js/787.e40d7edb.chunk.js",
+    "static/media/logo.svg": "/ZooApp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ZooApp/index.html",
+    "main.4de0fa12.css.map": "/ZooApp/static/css/main.4de0fa12.css.map",
+    "main.2d9ef89c.js.map": "/ZooApp/static/js/main.2d9ef89c.js.map",
+    "787.e40d7edb.chunk.js.map": "/ZooApp/static/js/787.e40d7edb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4de0fa12.css",
+    "static/js/main.2d9ef89c.js"
+  ]
+}
